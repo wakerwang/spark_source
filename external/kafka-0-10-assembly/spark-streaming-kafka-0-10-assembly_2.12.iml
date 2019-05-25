@@ -26,8 +26,8 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.xbean:xbean-asm7-shaded:4.13" level="project" />
     <orderEntry type="module" module-name="spark-launcher_2.12" scope="PROVIDED" />
     <orderEntry type="module" module-name="spark-kvstore_2.12" scope="PROVIDED" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.9" level="project" />
     <orderEntry type="module" module-name="spark-network-common_2.12" scope="PROVIDED" />
     <orderEntry type="module" module-name="spark-network-shuffle_2.12" scope="PROVIDED" />
     <orderEntry type="module" module-name="spark-unsafe_2.12" scope="PROVIDED" />
@@ -83,9 +83,9 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: io.dropwizard.metrics:metrics-jvm:3.1.5" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: io.dropwizard.metrics:metrics-json:3.1.5" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: io.dropwizard.metrics:metrics-graphite:3.1.5" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.module:jackson-module-scala_2.12:2.9.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.module:jackson-module-paranamer:2.9.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.module:jackson-module-scala_2.12:2.9.9" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.module:jackson-module-paranamer:2.9.9" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.ivy:ivy:2.4.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: oro:oro:2.0.8" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: net.razorvine:pyrolite:4.23" level="project" />
